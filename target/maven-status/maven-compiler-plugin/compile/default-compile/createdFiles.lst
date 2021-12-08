@@ -1,0 +1,4 @@
+beans\Produtos.class
+com\mycompany\mavenproject7\resources\JavaEE8Resource.class
+dao\ProdutosDAO.class
+com\mycompany\mavenproject7\JAXRSConfiguration.class
